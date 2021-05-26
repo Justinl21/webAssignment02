@@ -6,4 +6,4 @@ Flutter : Dart, Flutter engine - High performance
 
 Ruby on Rails : HTML, CSS, Javascript - Huge and active community.
 
-WINS : Windows Server, Internet information services, .NET, SQL - Back end
+WINS : Windows Server, Internet information services, .NET, SQL - Back end.
